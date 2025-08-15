@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+ENV/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+
+# OS
+.DS_Store
+
+# Environment and secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+/dist/
+/build/
+
+# Generated media (runtime outputs, do not version)
+uploads/
+generated/

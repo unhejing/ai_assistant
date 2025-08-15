@@ -1,0 +1,18 @@
+# 后端核心依赖
+fastapi
+uvicorn
+python-multipart
+pydantic
+Pillow
+
+# 图像生成相关 - Qwen-Image 依赖
+torch
+transformers>=4.51.3
+diffusers
+accelerate
+requests
+aiofiles
+
+# 工具库
+python-dotenv
+loguru
