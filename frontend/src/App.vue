@@ -16,7 +16,7 @@ import HeaderBar from './components/HeaderBar.vue'
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background: #0f0f12; /* 深色背景，模仿即梦风格 */
+  background: #0f0f12; /* 深色背景，模仿若伊风格 */
 }
 .content {
   flex: 1;

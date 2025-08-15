@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <section class="hero">
-      <h1>即梦 · AI 生成工作台</h1>
+      <h1>若伊 · AI 生成工作台</h1>
       <p>使用自然语言创作高质量图像，未来可扩展到数字人、声音克隆和智能体</p>
       <el-button type="primary" size="large" @click="$router.push('/playground')">
         立即开始

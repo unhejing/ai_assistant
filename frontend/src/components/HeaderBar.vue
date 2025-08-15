@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="left">
-      <span class="logo">即梦·Workbench</span>
+      <span class="logo">若伊·Workbench</span>
       <el-menu mode="horizontal" :default-active="active" background-color="#0f0f12" text-color="#cbd5e1" active-text-color="#60a5fa" @select="onSelect">
         <el-menu-item index="/">首页</el-menu-item>
         <el-menu-item index="/playground">工作台</el-menu-item>
